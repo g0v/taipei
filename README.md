@@ -10,7 +10,6 @@ This is a handbook for people coming to the [g0v Summit](http://summit.g0v.tw/) 
 - [Free WiFi](#free-wifi)
 - [Tipping](#tipping)
 - [Communication](#communication)
-- [What to buy to bring back home](#what-to-buy-to-bring-back-home)
 - [Airport transportation](#aitport-transportaion)
 - [Getting Around](#getting-around)
 - [Sight Seeing](#sight-seeing)
@@ -21,6 +20,7 @@ This is a handbook for people coming to the [g0v Summit](http://summit.g0v.tw/) 
 - [Currency](#currency)
 - [Co-working Spaces](#co-working-spaces)
 - [Souvenirs](#souvenirs)
+- [See also](#see-also)
 - [License](#license)
 - [Credits](#credits)
 
@@ -102,11 +102,11 @@ English news can be found on [Taiwan News](http://www.taiwannews.com.tw/)
 
 **[Taipei MRT](http://english.metro.taipei)** should be your first choice.
 
-**Uber** is also available in Taipei.
-
 ### Taxi
 
-You can flag down a taxi from the street. Starts at NT$70-90, but in some tourist sites, the price will be a little bit higher.
+You can flag down a taxi from the street. Starts at NT$70-90, but in some tourist sites away from central Taipei (eg., Jiufen), the price will be a little bit higher.
+
+**Uber** is also available in Taipei and convenience for foreign users.
 
 ### MRT and Buses
 
@@ -118,8 +118,9 @@ EasyCard credits are refundable (with some fees) so if you still have some credi
 
 **No eating or drinking is allowed inside the station or on the train.**
 
-### YouBike
-[YouBike](http://taipei.youbike.com.tw/en/f43.php) allows commuters to rent from one station and return at another. To use YouBike, you will need an [EasyCard](https://www.easycard.com.tw/english/easycard/buy.asp) that is available at all metro station information counters and convenience stores.
+### YouBike (Bike sharing)
+
+Yellow bike sharing service [YouBike](http://taipei.youbike.com.tw/en/f43.php) is available everywhere across Taipei (and near all metro station). It allows commuters to rent from one station and return at another with [EasyCard](https://www.easycard.com.tw/english/easycard/buy.asp) with very cheap price as low as 30 an hour, which is available at all metro station information counters and convenience stores.
 
 ## Sight Seeing
 
@@ -184,7 +185,7 @@ EasyCard credits are refundable (with some fees) so if you still have some credi
 
 - <del>Wulai</del> (Under recovery)
 
-Anime & Manga
+### Anime & Manga
 
 - Taipei Underground Shopping Street (台北地下街)
 
@@ -258,6 +259,10 @@ Like Jelly but softer. Usually served in cold with lemon. This sweet is probaly 
 ## Café
 
 Ongoing [list of cafes](https://github.com/rubytaiwan/taipei/wiki/Cafe) put together in Wiki.
+Most café provide free wifi, and power socket is available in some place. 
+Do check "coffee" in Foursquare for (many hundred of) good quality indenpedent cafés. 
+
+You can also get cheap (but not so bad) coffee at convenience store at $50~100. 
 
 ### Cat Cafés
 
@@ -273,7 +278,12 @@ Ongoing [list of cafes](https://github.com/rubytaiwan/taipei/wiki/Cafe) put toge
 - Nougat
 - Tea Leaf Pack
 - Sun cake
-- Kavalan (Taiwan Whiskey). Only available at airport
+- [Kavalan Whiskey](http://www.kavalanwhisky.com/EN/main.aspx), available at airport, many [retail stores](https://goo.gl/maps/tV9con1Ev642) and convenience store.
+
+# See also
+
+- Mozilla Community also host a [detail info wiki about visiting Taipei](https://wiki.mozilla.org/Taipei)
+- [Wikivoyage: Taipei](http://en.wikivoyage.org/wiki/Taipei)
 
 # License
 
