@@ -122,7 +122,7 @@ EasyCard credits are refundable (with some fees) so if you still have some credi
 
 You can flag down a taxi from the street. Starts at NT$70-90, but in some tourist sites away from central Taipei (eg., Jiufen), the price will be a little bit higher.
 
-**Uber** is also available in Taipei and convenience for foreign users.
+**Uber** is also available in Taipei, with the same price as taxi (when without surge pricing), and in most situation are more convenience for foreign users.
 
 ### YouBike (Bike sharing)
 
@@ -175,9 +175,10 @@ All informations are available on the [Guide to Taipei](https://guidetotaipei.co
   ![Xiang-shan](https://farm4.staticflickr.com/3850/14514271348_4172caf1f9_z.jpg)
  <sub>Credit: <a href="https://flic.kr/p/o7zrcJ" target="_blank">中岑 范姜</a>
 
-- Maokong (貓空)
+- Maokong (貓空) & Maokong Gondola
 
   Famous for the taiwanese tea
+  
   ![Maokong](https://farm2.staticflickr.com/1075/716378012_b937b47477_z.jpg)
   <sub>Credit: <a href="https://flic.kr/p/26iCe3" target="_blank">Prince Roy</a>
 
@@ -210,7 +211,7 @@ All informations are available on the [Guide to Taipei](https://guidetotaipei.co
   ![Beitou](https://farm9.staticflickr.com/8841/17771298978_cba24eb661_z.jpg "")
   <sub>Credit: <a href="https://flic.kr/p/t5oy3w" target="_blank">カメラマン</a>
 
-- <del>Wulai</del> (Under recovery)
+- Wulai (烏來溫泉)
 
 ### Anime & Manga
 
