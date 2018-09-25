@@ -11,8 +11,8 @@ This is a handbook for people coming to the [g0v Summit](http://summit.g0v.tw/) 
 - [Tipping](#tipping)
 - [Communication](#communication)
 - [Airport transportation](#aitport-transportaion)
-- [What to buy to bring back home](#what-to-buy-to-bring-back-home)
 - [Getting Around](#getting-around)
+- [What to buy to bring back home](#what-to-buy-to-bring-back-home)
 - [Buying Electronics](#buying-electronics)
 - [Sight Seeing](#sight-seeing)
 - [Food](#food)
@@ -110,19 +110,19 @@ The public transport system runs on a reloadable contactless card called **[Easy
 
 EasyCard credits are refundable (with some fees) so if you still have some credits left, remember to go to the MRT counter to apply for a refund.
 
+### MRT and Buses
+
+- **[Taipei MRT](http://english.metro.taipei)** should be your first choice.
+
+- **[Buses](https://guidetotaipei.com/article/taipei-public-bus-%E5%8F%B0%E5%8C%97%E5%85%AC%E5%85%B1%E6%B1%BD%E8%BB%8A)**
+
+**No eating or drinking is allowed inside the metro station or on the MRT train.**
+
 ### Taxi
 
 You can flag down a taxi from the street. Starts at NT$70-90, but in some tourist sites away from central Taipei (eg., Jiufen), the price will be a little bit higher.
 
 **Uber** is also available in Taipei and convenience for foreign users.
-
-### MRT and Buses
-
-**[Taipei MRT](http://english.metro.taipei)** should be your first choice.
-
-**[Buses](https://guidetotaipei.com/article/taipei-public-bus-%E5%8F%B0%E5%8C%97%E5%85%AC%E5%85%B1%E6%B1%BD%E8%BB%8A)**
-
-**No eating or drinking is allowed inside the metro station or on the MRT train.**
 
 ### YouBike (Bike sharing)
 
