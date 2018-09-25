@@ -126,7 +126,7 @@ You can flag down a taxi from the street. Starts at NT$70-90, but in some touris
 
 ### YouBike (Bike sharing)
 
-Yellow bike sharing service [YouBike](http://taipei.youbike.com.tw/en/f43.php) is available everywhere across Taipei (and near all metro station). It allows commuters to rent from one station and return at another with [EasyCard](https://www.easycard.com.tw/english/easycard/buy.asp) with very cheap price as low as 30 an hour, which is available at all metro station information counters and convenience stores.
+Yellow bike sharing service [YouBike](http://taipei.youbike.com.tw/en/f43.php) is available everywhere across Taipei (and near all metro station). It allows commuters to rent from one station and return at another with [EasyCard](https://www.easycard.com.tw/english/easycard/buy.asp) with very cheap price as low as 30 per hour, which is available at all metro station information counters and convenience stores.
 
 Download the [App](https://taipei.youbike.com.tw/download/app) so you can access the stations map and know if there's still empty places to park your Youbike or if the closest station has available Youbike!
 
