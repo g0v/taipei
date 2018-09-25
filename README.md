@@ -138,6 +138,10 @@ Download the [App](https://taipei.youbike.com.tw/download/app) so you can access
 
 ## Sight Seeing
 
+Check [Taipei#Tourism on Wikipedia](https://en.wikipedia.org/wiki/Taipei#Tourism) for more detailed venues info. 
+
+### Top places
+
 All informations are available on the [Guide to Taipei](https://guidetotaipei.com/). Hereafter, what some suggestions:
 
 - [Taipei 101](http://www.taipei-101.com.tw/en/index.aspx)
@@ -151,8 +155,6 @@ All informations are available on the [Guide to Taipei](https://guidetotaipei.co
 
   ![National Palace Museum](https://farm3.staticflickr.com/2682/4084776487_d98a00d75b_z.jpg)
   <sub>Credit: <a href="https://flic.kr/p/7dXxJP" target="_blank">Leon Brocard</a>
-
-- [Taipei Zoo]( http://english.zoo.gov.taipei/)
 
 - The [Chiang Kai-Shek Memorial Hall](https://www.cksmh.gov.tw/eng/) and the Liberty Place (自由廣場).
 
