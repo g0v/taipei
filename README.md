@@ -104,6 +104,12 @@ English news can be found on [Taiwan News](http://www.taiwannews.com.tw/), [Taip
 
 Google Maps is your best friend.
 
+***EASYCARD***
+
+The public transport system runs on a reloadable contactless card called **[EasyCard](https://guidetotaipei.com/article/easycard-%E6%82%A0%E9%81%8A%E5%8D%A1)** (悠遊卡). There are also one to five day unlimited pass (for MRT and Buses), called Taipei pass, and 24hr Taipei Metro Pass (only for MRT). It’s better to buy a EasyCard unless you will plan on making 5+ trips per day then you can buy the Taipei pass at all metro station information. The EasyCard is available at all metro station information counters and convenience stores.
+
+EasyCard credits are refundable (with some fees) so if you still have some credits left, remember to go to the MRT counter to apply for a refund.
+
 ### Taxi
 
 You can flag down a taxi from the street. Starts at NT$70-90, but in some tourist sites away from central Taipei (eg., Jiufen), the price will be a little bit higher.
@@ -117,12 +123,6 @@ You can flag down a taxi from the street. Starts at NT$70-90, but in some touris
 **[Buses](https://guidetotaipei.com/article/taipei-public-bus-%E5%8F%B0%E5%8C%97%E5%85%AC%E5%85%B1%E6%B1%BD%E8%BB%8A)**
 
 **No eating or drinking is allowed inside the metro station or on the MRT train.**
-
-***EASYCARD***
-
-The public transport system runs on a reloadable contactless card called **[EasyCard](https://guidetotaipei.com/article/easycard-%E6%82%A0%E9%81%8A%E5%8D%A1)** (悠遊卡). There are also one to five day unlimited pass (for MRT and Buses), called Taipei pass, and 24hr Taipei Metro Pass (only for MRT). It’s better to buy a EasyCard unless you will plan on making 5+ trips per day then you can buy the Taipei pass at all metro station information. The EasyCard is available at all metro station information counters and convenience stores.
-
-EasyCard credits are refundable (with some fees) so if you still have some credits left, remember to go to the MRT counter to apply for a refund.
 
 ### YouBike (Bike sharing)
 
