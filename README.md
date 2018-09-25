@@ -11,7 +11,9 @@ This is a handbook for people coming to the [g0v Summit](http://summit.g0v.tw/) 
 - [Tipping](#tipping)
 - [Communication](#communication)
 - [Airport transportation](#aitport-transportaion)
+- [What to buy to bring back home](#what-to-buy-to-bring-back-home)
 - [Getting Around](#getting-around)
+- [Buying Electronics](#buying-electronics)
 - [Sight Seeing](#sight-seeing)
 - [Food](#food)
 - [Coffee Culture](#coffee-culture)
@@ -90,7 +92,7 @@ No need to tip.
 
 Chinese & English, most of people will help you anyway.
 
-English news can be found on [Taiwan News](http://www.taiwannews.com.tw/)
+English news can be found on [Taiwan News](http://www.taiwannews.com.tw/), [Taipei Times](http://www.taipeitimes.com/) and [Focus Taiwan](http://focustaiwan.tw/).
 
 ## Airport transportation
 
@@ -100,7 +102,7 @@ English news can be found on [Taiwan News](http://www.taiwannews.com.tw/)
 
 ## Getting Around
 
-**[Taipei MRT](http://english.metro.taipei)** should be your first choice.
+Google Maps is your best friend.
 
 ### Taxi
 
@@ -110,19 +112,39 @@ You can flag down a taxi from the street. Starts at NT$70-90, but in some touris
 
 ### MRT and Buses
 
-Google Maps is your good friend.
+**[Taipei MRT](http://english.metro.taipei)** should be your first choice.
 
-The public transport system runs on a reloadable contactless card called EasyCard. There are also one to five day unlimited pass (for MRT and Buses), called Taipei pass, and 24hr Taipei Metro Pass (only for MRT). It’s better to buy a EasyCard unless you will plan on making 5+ trips per day then you can buy the Taipei pass at all metro station information. The EasyCard is available at all metro station information counters and convenience stores.
+**[Buses](https://guidetotaipei.com/article/taipei-public-bus-%E5%8F%B0%E5%8C%97%E5%85%AC%E5%85%B1%E6%B1%BD%E8%BB%8A)**
+
+**No eating or drinking is allowed inside the metro station or on the MRT train.**
+
+***EASYCARD***
+
+The public transport system runs on a reloadable contactless card called **[EasyCard](https://guidetotaipei.com/article/easycard-%E6%82%A0%E9%81%8A%E5%8D%A1)** (悠遊卡). There are also one to five day unlimited pass (for MRT and Buses), called Taipei pass, and 24hr Taipei Metro Pass (only for MRT). It’s better to buy a EasyCard unless you will plan on making 5+ trips per day then you can buy the Taipei pass at all metro station information. The EasyCard is available at all metro station information counters and convenience stores.
 
 EasyCard credits are refundable (with some fees) so if you still have some credits left, remember to go to the MRT counter to apply for a refund.
-
-**No eating or drinking is allowed inside the station or on the train.**
 
 ### YouBike (Bike sharing)
 
 Yellow bike sharing service [YouBike](http://taipei.youbike.com.tw/en/f43.php) is available everywhere across Taipei (and near all metro station). It allows commuters to rent from one station and return at another with [EasyCard](https://www.easycard.com.tw/english/easycard/buy.asp) with very cheap price as low as 30 an hour, which is available at all metro station information counters and convenience stores.
 
+Download the [App](https://taipei.youbike.com.tw/download/app) so you can access the stations map and know if there's still empty places to park your Youbike or if the closest station has available Youbike!
+
+### Obike
+
+[Obike](https://www.o.bike/tw/) is also avalaible in Taipei, but it's almost dead.
+
+## Buying electronics
+
+[Guanghua Market (光華商場)](https://guidetotaipei.com/visit/guanghua-digital-plaza-computer-market-%E5%85%89%E8%8F%AF%E6%95%B8%E4%BD%8D%E6%96%B0%E5%A4%A9%E5%9C%B0-%E5%85%89%E8%8F%AF%E5%95%86%E5%A0%B4)
+
 ## Sight Seeing
+
+Check [Taipei#Tourism on Wikipedia](https://en.wikipedia.org/wiki/Taipei#Tourism) for more detailed venues info. 
+
+### Top places
+
+All informations are available on the [Guide to Taipei](https://guidetotaipei.com/). Hereafter, what some suggestions:
 
 - [Taipei 101](http://www.taipei-101.com.tw/en/index.aspx)
 
@@ -136,8 +158,13 @@ Yellow bike sharing service [YouBike](http://taipei.youbike.com.tw/en/f43.php) i
   ![National Palace Museum](https://farm3.staticflickr.com/2682/4084776487_d98a00d75b_z.jpg)
   <sub>Credit: <a href="https://flic.kr/p/7dXxJP" target="_blank">Leon Brocard</a>
 
-- [Taipei Zoo]( http://english.zoo.gov.taipei/)
+- The [Chiang Kai-Shek Memorial Hall](https://www.cksmh.gov.tw/eng/) and the Liberty Place (自由廣場).
 
+- [Presidential Palace](https://guidetotaipei.com/visit/presidential-office-building)
+
+- [228 Peace Memorial Park](https://guidetotaipei.com/visit/228-peace-memorial-park-%E4%BA%8C%E4%BA%8C%E5%85%AB%E5%92%8C%E5%B9%B3%E5%85%AC%E5%9C%92-228-park)
+
+- [Longshan Temple](https://guidetotaipei.com/visit/longshan-temple-%E9%BE%8D%E5%B1%B1%E5%AF%BA)
 
 ### Mountain Hiking
 
@@ -196,7 +223,6 @@ Yellow bike sharing service [YouBike](http://taipei.youbike.com.tw/en/f43.php) i
   Electronic Street, but also have some anime shops in Syntrend (三創). Huashan Park (華山文創園區) is also a good place to go.
 
 More information: [The 25 Top Taipei, Taiwan Things To Do: What to Do Today, This Weekend or in September](http://www.virtualtourist.com/travel/Asia/Taiwan/Taipei_Shih/Taipei-1074413/Things_To_Do-Taipei-TG-C-1.html).
-
 
 ## Food
 
